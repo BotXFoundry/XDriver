@@ -34,12 +34,11 @@ XDriver 伺服驱动器两侧各配置一个电机控制接口，空间高度集
      <br> 
 
 DOC：提供使用已有驱动器固件接口协议定义。<br>
-Hardware/shematic_diagram：XDriver的原理图，用户可以根据原理图扩展开发，提供原理图的PDF版本和源文件版本。<br>
+Hardware/shematic_diagram：XDriver的原理图，用户可以根据原理图扩展开发，提供原理图的PDF版本。<br>
   
 ### 文件编码格式
 
 软件编码方式：软件采用UTF-8编码。<br>
-原理图设计源文件为PADS LOGIC 格式，使用PADS工具打开。原理图也提供了pdf格式，可以直接查看。
 
 ## XDriver购买
 
